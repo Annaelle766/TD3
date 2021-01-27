@@ -1,8 +1,8 @@
 # TD3
 bonjour
-vous
-etes
-bizarre
+hello
+Hola
+halo
 vite
 allez
 
